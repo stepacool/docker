@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> eqwwwwwwd.
+            Edit <code>src/App.js</code> eqwwwwww d.
           </p>
           <a
             className="App-link"
@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            You dont know. Who knows?
+            Feature branchhhhhhhhhhhhhhhh?
             
           </a>
         </header>
