@@ -6,4 +6,4 @@ before_install:
   - docker build -t stepacool/docker -f Dockerfile.dev .
 
 script:
-  - docker run stepacool/docker npr run test -- --coverage
+  - docker run stepacool/docker npm run test -- --coverage
